@@ -15,3 +15,4 @@ Seja bem-vindo ao meu portfólio de desenvolvimento. Sou estudante de Análise e
 
 ## 📂 Projetos em Destaque
 * **[Meu Portal de Estudos Front-End](./web-estudos):** Plataforma interativa e totalmente modular construída para documentar conceitos práticos de HTML, CSS e JavaScript estruturados de forma centralizada.
+* **[Clique aqui para acessar o site](https://angeloisocod.github.io/web-estudos/)**
