@@ -14,5 +14,5 @@ Seja bem-vindo ao meu portfólio de desenvolvimento. Sou estudante de Análise e
 * **Ambiente de Desenvolvimento:** Linux, VS Code, Git e GitHub.
 
 ## 📂 Projetos em Destaque
-* **[Meu Portal de Estudos Front-End](./web-estudos):** Plataforma interativa e totalmente modular construída para documentar conceitos práticos de HTML, CSS e JavaScript estruturados de forma centralizada.
+* **[Meu Portal de Estudos Front-End](https://angeloioscod.github.io/web-estudos/):** Plataforma interativa e totalmente modular construída para documentar conceitos práticos de HTML, CSS e JavaScript estruturados de forma centralizada.
 * **[Clique aqui para acessar o site](https://angeloioscod.github.io/web-estudos/)**
