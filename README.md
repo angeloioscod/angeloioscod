@@ -45,6 +45,5 @@ Abaixo estão os principais tópicos e conceitos que dominei ao longo da gradua�
 ---
 
 📬 **Vamos nos conectar?**
-* [LinkedIn](https://www.linkedin.com/in/angelo-oliveira-1598227b/)
-
+* [LinkedIn](https://www.linkedin.com/in/%C3%A2ngelo-oliveira-15988227b/)
 * 
