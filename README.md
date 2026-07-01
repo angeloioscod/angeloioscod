@@ -2,7 +2,9 @@
 
 Seja bem-vindo ao meu portfólio de desenvolvimento. Sou estudante de Análise e Desenvolvimento de Sistemas e aqui organizo meus projetos, estudos e evoluções no ecossistema de tecnologia.
 
-*(Mantenha a imagem do seu banner aqui)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angeloioscod&show_icons=true&theme=radical" alt="Banner do Ângelo" />
+</p>
 
 ## 🎯 Sobre Mim
 
@@ -41,6 +43,7 @@ Abaixo estão os principais tópicos e conceitos que dominei ao longo da gradua�
 
 * **Meu Portal de Estudos Front-End:** Plataforma interativa e totalmente modular construída para documentar conceitos e testes de HTML, CSS e JavaScript estruturados de forma centralizada.
 * **[Clique aqui para acessar o site](https://angeloioscod.github.io/web-estudos/)**
+
 
 ---
 
