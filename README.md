@@ -2,9 +2,7 @@
 
 Seja bem-vindo ao meu portfólio de desenvolvimento. Sou estudante de Análise e Desenvolvimento de Sistemas e aqui organizo meus projetos, estudos e evoluções no ecossistema de tecnologia.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeloioscod&show_icons=true&theme=radical" alt="Banner do Ângelo" />
-</p>
+![Desenvolvimento Web](https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800)
 
 ## 🎯 Sobre Mim
 
